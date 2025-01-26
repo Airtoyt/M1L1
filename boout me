@@ -1,0 +1,3 @@
+import random
+Me = ["I Have 1500 Hours played on fortnite", "I haave a dog and a cat", "I collect 1\64 models of cars "]
+print(random.choice(Me))
